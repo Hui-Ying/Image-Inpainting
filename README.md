@@ -29,6 +29,9 @@ The main differences between our work and Guilin et al. is that we use different
 The 6 images below show the augmented dataset for our implementation, including randomly flipped, rotated, and slightly discolored versions of the ground truth images. The augmented dataset is used to imporve the training model by increasing the diversity of available dataset.  
 <img src="/images/augmentation.jpg" width="300">
 
+### Result
+The image on the left is covered with rectangular masks, and the image on the right shows the result after implementing image inpainting. 
+<img src="/images/result.jpg" width="300">
 ### Citations
 [1][Context Encoders: Feature Learning by Inpainting](https://arxiv.org/pdf/1604.07379.pdf)  
 [2][Image Inpainting for Irregular Holes Using Partial Convolutions](https://arxiv.org/pdf/1804.07723.pdf)

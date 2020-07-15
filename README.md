@@ -8,7 +8,6 @@ Complete code can be found in Inpainting_Partial_Convolution-2.ipynb.
 Our contributions in this project compared to other similar works inculde  
 - Training dataset augmentation
 - Testing dataset augmentation
-- Improved the Peak signal-to-noise ratio (PSNR) to 19.37 compared to the result in [[2]](https://arxiv.org/pdf/1804.07723.pdf)
 - Improved the Structural Similarity Index Measure (SSIM) to 0.92 compared to the result in [[2]](https://arxiv.org/pdf/1804.07723.pdf)
 
 

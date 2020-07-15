@@ -19,4 +19,4 @@ The 6 images below show the augmented dataset for our implementation, including 
 <img src="/images/augmentation.jpg" width="300">
 
 ### Citations
-[1][A Brief Introduction To GANs](https://medium.com/sigmoid/a-brief-introduction-to-gans-and-how-to-code-them-2620ee465c30) 
+[1][Context Encoders: Feature Learning by Inpainting](https://arxiv.org/pdf/1604.07379.pdf) 

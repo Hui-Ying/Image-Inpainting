@@ -28,7 +28,7 @@ In order to make our model more robust, image augmentation was applied to our im
 <img src="/images/augmentation.jpg" width="300">
 
 ### Result
-The image on the left is covered with rectangular masks, and the image on the right shows the result after implementing image inpainting. 
+The image on the left is covered with rectangular masks, and the image on the right shows the result after implementing image inpainting.  
 <img src="/images/result.jpg" width="300">
 ### Citations
 [1][Context Encoders: Feature Learning by Inpainting](https://arxiv.org/pdf/1604.07379.pdf)  

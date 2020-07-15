@@ -17,3 +17,6 @@ The main differences between our work and Guilin et al. is that we use different
 ### Image Augmentation
 The 6 images below show the augmented dataset for our implementation, including randomly flipped, rotated, and slightly discolored versions of the ground truth images. The augmented dataset is used to imporve the training model by increasing the diversity of available dataset.  
 <img src="/images/augmentation.jpg" width="300">
+
+### Citations
+[1][A Brief Introduction To GANs](https://medium.com/sigmoid/a-brief-introduction-to-gans-and-how-to-code-them-2620ee465c30) 

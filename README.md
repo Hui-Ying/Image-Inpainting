@@ -30,5 +30,5 @@ The 6 images below show the augmented dataset for our implementation, including 
 <img src="/images/augmentation.jpg" width="300">
 
 ### Citations
-[1][Context Encoders: Feature Learning by Inpainting](https://arxiv.org/pdf/1604.07379.pdf) 
-[2][]()
+[1][Context Encoders: Feature Learning by Inpainting](https://arxiv.org/pdf/1604.07379.pdf)  
+[2][Image Inpainting for Irregular Holes Using Partial Convolutions](https://arxiv.org/pdf/1804.07723.pdf)

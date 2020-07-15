@@ -32,4 +32,5 @@ The image on the left is covered with rectangular masks, and the image on the ri
 <img src="/images/result.jpg" width="300">
 ### Citations
 [1][Context Encoders: Feature Learning by Inpainting](https://arxiv.org/pdf/1604.07379.pdf)  
-[2][Image Inpainting for Irregular Holes Using Partial Convolutions](https://arxiv.org/pdf/1804.07723.pdf)
+[2][Image Inpainting for Irregular Holes Using Partial Convolutions](https://arxiv.org/pdf/1804.07723.pdf)   
+[3][High-Resolution Image Inpainting using Multi-Scale Neural Patch Synthesis](https://arxiv.org/pdf/1611.09969.pdf)   

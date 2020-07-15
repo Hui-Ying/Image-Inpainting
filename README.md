@@ -4,10 +4,9 @@ Click [Here](https://www.youtube.com/watch?v=R4t8kbnEbOA) to check the video dem
 
 Complete code can be found in Inpainting_Partial_Convolution-2.ipynb.
 
-## Our contributions:
+## Our main contributions:
 Our contributions in this project compared to other similar works inculde  
-- Training dataset augmentation
-- Testing dataset augmentation
+- Training dataset augmentation( Including images and masks)
 - Improved the Structural Similarity Index Measure (SSIM) to 0.92 compared to the result in [[2]](https://arxiv.org/pdf/1804.07723.pdf)
 
 
